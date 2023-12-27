@@ -68,4 +68,6 @@ Versatile professional with extensive experience in developing solutions across 
 
 <br>
 
+> Note: Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
+
 </details>
