@@ -1,4 +1,4 @@
-[![Header](./images/header.png "Header")
+[![Header](./images/github-header-image.png "Header")
 
 
 <p align="center">
