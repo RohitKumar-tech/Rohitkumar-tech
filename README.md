@@ -22,9 +22,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RohitKumar-tech&label=Profile%20views&color=0e75b6&style=flat)
 
-I am a seasoned full-stack developer with over 7 years of experience, spanning various industries. My fascination with technology ignited at a young age, and I embarked on a journey that evolved through different operating systems, ultimately leading me to embrace the power of macOS and the Unix environment.
+Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
 
-My multifaceted experience extends to developing solutions for web, mobile, desktop, and embedded systems. I thrive on the challenge of mastering new technologies and delivering cutting-edge solutions that drive innovation in the ever-evolving tech landscape.
+Versatile professional with extensive experience in developing solutions across web, mobile, desktop, and embedded systems. Demonstrated proficiency in mastering emerging technologies and delivering advanced solutions that contribute to innovation in the dynamic tech landscape.
 
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:rohitkumar620200@gmail.com).
