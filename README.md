@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/RohitKumar-tech" target="_blank">
-    <img src="./images/logos/github.png" height="30px">
+    <img src="../images/logos/github.png" height="30px">
 </a>
 <a href="https://www.linkedin.com/in/rohit-kumar-28aa94223/" target="_blank">
     <img src="./images/logos/linkedin.png" height="30px">
