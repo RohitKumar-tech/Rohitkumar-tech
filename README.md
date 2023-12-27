@@ -1,16 +1,19 @@
+[![Header](./images/header.png "Header")
+
+
 <p align="center">
 
 <a href="https://github.com/RohitKumar-tech" target="_blank">
-    <img src="../images/logos/github.png" height="30px">
+    <img src="./images/github.png" height="30px">
 </a>
 <a href="https://www.linkedin.com/in/rohit-kumar-28aa94223/" target="_blank">
-    <img src="./images/logos/linkedin.png" height="30px">
+    <img src="./images/linkedin.png" height="30px">
 </a>
 <a href="https://www.instagram.com/rohit_kumarrrrr_/" target="_blank">
-    <img src="./images/logos/ig.png" height="30px">
+    <img src="./images/ig.png" height="30px">
 </a>
 <a href="https://twitter.com/Rk5108Kumar" target="_blank">
-    <img src="./images/logos/twitter.png" height="30px">
+    <img src="./images/twitter.png" height="30px">
 </a>
 
 </p>
