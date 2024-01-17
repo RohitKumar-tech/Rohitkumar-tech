@@ -1,4 +1,4 @@
-![Header](./images/github-header-image.png "Header")
+![Header](./images/rohit-banner.png "Header")
 
 <p align="center">
 
