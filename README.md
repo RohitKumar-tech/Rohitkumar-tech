@@ -1,5 +1,5 @@
 <a href="www.rohitsaraf.in" target="_blank">
-   ![Header](./images/rohit-banner.png "Header")
+   <img src="./images/rohit-banner.png" >
 </a>
 
 <p align="center">
