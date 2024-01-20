@@ -1,4 +1,4 @@
-<a href="www.rohitsaraf.in" target="_blank">
+<a href="https://www.rohitsaraf.in" target="_blank">
    <img src="./images/rohit-banner.png" >
 </a>
 
