@@ -10,6 +10,12 @@
 <a href="https://www.linkedin.com/in/rohit-kumar-28aa94223/" target="_blank">
     <img src="./images/linkedin.png" height="30px">
 </a>
+<a href="https://leetcode.com/Rohit_kumar411/" target="_blank">
+    <img src="./images/leetcode.png" height="30px">
+</a>
+<a href="https://www.rohitsaraf.in/#home" target="_blank">
+    <img src="./images/sign.jpg" height="30px">
+</a>
 <a href="https://www.instagram.com/rohit_kumarrrrr_/" target="_blank">
     <img src="./images/ig.png" height="30px">
 </a>
