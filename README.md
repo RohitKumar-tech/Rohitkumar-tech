@@ -13,6 +13,9 @@
 <a href="https://leetcode.com/Rohit_kumar411/" target="_blank">
     <img src="./images/leetcode.png" height="30px">
 </a>
+<a href="https://www.hackerrank.com/profile/rohitkumar620200" target="_blank">
+    <img src="./images/hackerRank.png" height="30px">
+</a>
 <a href="https://www.rohitsaraf.in/#home" target="_blank">
     <img src="./images/sign.jpg" height="30px">
 </a>
