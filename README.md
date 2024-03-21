@@ -16,6 +16,9 @@
 <a href="https://www.hackerrank.com/profile/rohitkumar620200" target="_blank">
     <img src="./images/hackerRank.png" height="30px">
 </a>
+<a href="https://www.freecodecamp.org/Rohit_kumar_411" target="_blank">
+    <img src="./images/FreeCodeCamp.jpeg" height="30px">
+</a>
 <a href="https://www.rohitsaraf.in/#home" target="_blank">
     <img src="./images/sign.jpg" height="30px">
 </a>
