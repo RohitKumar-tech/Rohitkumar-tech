@@ -37,7 +37,7 @@
 
 Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
 
-Versatile professional with extensive experience in developing solutions across web, mobile, desktop, and embedded systems. Demonstrated proficiency in mastering emerging technologies and delivering advanced solutions that contribute to innovation in the dynamic tech landscape.
+Versatile professional with extensive experience in developing solutions across web development. Demonstrated proficiency in mastering emerging technologies and delivering advanced solutions that contribute to innovation in the dynamic tech landscape.
 
 - 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
 - 📫 &nbsp;You can contact me [here](mailto:rohitkumar620200@gmail.com).
@@ -60,9 +60,9 @@ Versatile professional with extensive experience in developing solutions across 
 
 <br>
 
-![Tools](https://skillicons.dev/icons?i=flutter,dart,go,kotlin,swift,html,c,python,cpp,rust,blender,github,tensorflow,git,aws,golang,javascript,react,linux,bash,gcp,flask,django,docker,css,java,mysql,nodejs,php,mongo,matlab,pytorch,r,sqlite,electron,ts,googlefirebase)
+![Tools](https://skillicons.dev/icons?i=html,c,python,cpp,github,git,javascript,react,gcp,flask,css,mysql,php,mongo,sqlite,firebase,arduino,raspberrypi,figma)
 
-> These are some of the tools and frameworks that I have worked with. My expertise includes working on web, mobile, desktop, and embedded systems. I have utilized a wide range of technologies, including Python, Rust, C, C++, Java, JavaScript, HTML, CSS, React, React Native, Electron, Node.js, GCP, MongoDB, MySQL, Flutter, Shell Scripting, Git, Docker, UE5, AWS, Unity, Fusion 360, Blender, EAGLE, easyEDA, Arduino, Raspberry Pi, ESP32, ESP8266, STM32, among others.
+> These are some of the tools and frameworks that I have worked with. My expertise includes working on web development. I have utilized a wide range of technologies, including Python, C, C++, JavaScript, HTML, CSS, React, MongoDB, MySQL, Git ,AutoCad , Fusion 360, Arduino, Raspberry Pi, ESP32, among others.
 
 </details>
 
