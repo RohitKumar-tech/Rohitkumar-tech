@@ -36,7 +36,7 @@
 
 # I'm [Rohit Kumar]
 
-<img align=right width=250 src="./images/artificially-intelligent-hackers-gif.gif" />
+<img align=right width=350 height=300 src="./images/anXNiX.gif"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RohitKumar-tech&label=Profile%20views&color=0e75b6&style=flat)
 
