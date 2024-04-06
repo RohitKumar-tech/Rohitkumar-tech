@@ -29,7 +29,10 @@
     <img src="./images/twitter.png" height="30px">
 </a>
 <a href="https://www.biodrop.io/RohitKumar-tech" target="_blank">
-    <img src="./images/BioDrop.png" height="28px">
+    <img src="./images/BioDrop.png" height="25px">
+</a>
+<a href="https://linktr.ee/rohitkumar_tech" target="_blank">
+    <img src="./images/linktree.png" height="28px">
 </a>
 
 </p>
