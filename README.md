@@ -54,6 +54,16 @@ Versatile professional with extensive experience in developing solutions across 
 #
 
 <details open>
+   
+<summary>Wake Time</summary>
+
+<br>
+
+![Metrics](metrics.plugin.wakatime.svg)
+
+</details>
+
+<details open>
 
 <summary>📊 &nbsp;Github Metrics</summary>
 
@@ -86,24 +96,11 @@ Versatile professional with extensive experience in developing solutions across 
 </details>
 
 <details>
-
-
-
+   
 <summary>ℹ️ &nbsp;More Info</summary>
 
 <br>
 
 > Note: Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
-
-</details>
-
-
-<details open>
-
-<summary>Wake Time</summary>
-
-<br>
-
-![Metrics](metrics.plugin.wakatime.svg)
 
 </details>
