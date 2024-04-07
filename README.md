@@ -107,3 +107,15 @@ Versatile professional with extensive experience in developing solutions across 
 > Note: Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
 
 </details>
+
+<details>
+   <summary>🤔 &nbsp;Coding Memes</summary>
+
+   <br>
+
+   <img margin=20 width=350 height=300 src="./meme/meme1.jpeg"/>
+   <img margin=20 width=350 height=300 src="./meme/meme2.webp"/>
+   <img margin=20 width=350 height=300 src="./meme/meme3.png"/>
+   <img margin=20 width=350 height=300 src="./meme/meme4.jpeg"/>
+   
+</details>
