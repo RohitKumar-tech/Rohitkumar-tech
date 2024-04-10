@@ -36,8 +36,13 @@
 </a>
 
 </p>
+<br>
 
-# I'm [Rohit Kumar]
+<h2 align="center" >Hi 👋, I'm Rohit Kumar
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239333F7&center=true&lines=Your+Friendly+Neighbourhood;Full+Stack+Developer;)](https://git.io/typing-svg)
+
+</h2>
 
 <img align=right width=350 height=300 src="./images/anXNiX.gif"/>
 
