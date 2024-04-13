@@ -124,3 +124,12 @@ Versatile professional with extensive experience in developing solutions across 
    <img margin=20 width=350 height=300 src="./meme/meme4.jpeg"/>
    
 </details>
+
+<details>
+   
+<summary> ✍️ &nbsp; Random Dev Quote </summary>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+</details>
+
