@@ -49,7 +49,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RohitKumar-tech&label=Profile%20views&color=0e75b6&style=flat)
 
 
-Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
+Passionate full-stack developer with 5 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
 
 
 Versatile professional with extensive experience in developing solutions across web development. Demonstrated proficiency in mastering emerging technologies and delivering advanced solutions that contribute to innovation in the dynamic tech landscape.
@@ -89,7 +89,7 @@ Versatile professional with extensive experience in developing solutions across 
 
 ![Tools](https://skillicons.dev/icons?i=html,c,python,cpp,github,git,javascript,react,gcp,flask,css,mysql,php,mongo,sqlite,firebase,arduino,raspberrypi,figma)
 
-> These are some of the tools and frameworks that I have worked with. My expertise includes working on web development. I have utilized a wide range of technologies, including Python, C, C++, JavaScript, HTML, CSS, React, MongoDB, MySQL, Git ,AutoCad , Fusion 360, Arduino, Raspberry Pi, ESP32, among others.
+> These are some of the tools and frameworks that I have worked with. My expertise includes working on web development. I have utilized a wide range of technologies, including Python, C, C++, JavaScript, HTML, CSS, React, MongoDB, MySQL, Git ,AutoCad , Fusion 360, Arduino, Raspberry Pi, ESP32, RP2040 touch LED display among others.
 
 </details>
 
@@ -109,7 +109,7 @@ Versatile professional with extensive experience in developing solutions across 
 
 <br>
 
-> Note: Passionate full-stack developer with 4 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
+> Note: Passionate full-stack developer with 5 years of experience in coding, specializing in web development. Enthusiastic about 3D modeling and robotics, having actively contributed to robotics projects. Explore my GitHub for a showcase of my diverse skills and projects, reflecting my early and continuous journey in coding.
 
 </details>
 
