@@ -1,7 +1,7 @@
 <a href="https://rohit-personal-portfolio-website-8r5z-miop6p94a.vercel.app/" target="_blank">
    <img src="./images/rohit-banner.png" >
 </a>
-.
+
 <p align="center">
 
 <a href="https://github.com/RohitKumar-tech" target="_blank">
