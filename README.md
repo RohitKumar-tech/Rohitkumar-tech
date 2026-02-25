@@ -81,6 +81,26 @@ Versatile professional with extensive experience in developing solutions across 
 
 </details>
 
+<details open>
+
+
+<summary>🏆 &nbsp;Competitive Coding</summary>
+
+<br>
+
+<p align="center">
+<a href="https://leetcode.com/Rohit_kumar411/">
+  <img src="https://leetcard.jacoblin.cool/Rohit_kumar411?theme=dark&font=baloo&ext=heatmap" />
+</a>
+</p>
+
+- 🔥 LeetCode
+- 💻 HackerRank
+- 🧠 Codeforces (actively preparing)
+- 🚀 Consistent problem-solving discipline
+   
+</details>
+
 <details>
 
 <summary>🛠️ &nbsp;Tools & Frameworks</summary>
